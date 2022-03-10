@@ -9,7 +9,7 @@ Prime Launch is also owned and operated by a DAO, Prime DAO, which comes with a 
 Prime Launch is owned and operated by Prime DAO, which funded Prime Launch's development and appoints the signers on the Prime Launch multi-sig. The multi-sig is responsible for approving new launches to appear in the Prime Launch interface.
 
 ### 3. Can I request support services from Prime DAO without launching on Prime Launch?
-Yes! You can inquire about them in the <a href="https://daotalk.org/c/primedao/38" target="_blank" rel="noopener noreferrer">Prime Forum</a>.
+Yes, you can inquire about them in the <a href="https://daotalk.org/c/primedao/38" target="_blank" rel="noopener noreferrer">Prime Forum</a>.
 
 ### 4. How can I get in touch with the core Prime Launch team?
 Reach out in the <a href="https://discord.com/invite/x8v59pG" target="_blank" rel="noopener noreferrer">Prime Discord</a>.
